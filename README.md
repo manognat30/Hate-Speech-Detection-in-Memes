@@ -1,4 +1,4 @@
-# The Hateful Memes Challenge README
+# The Detection of Facebook Hate Memes
 
 
 The Hateful Memes Challenge is a dataset and benchmark created by Facebook AI to drive and measure progress on multimodal reasoning and understanding. The task focuses on detecting hate speech in multimodal memes.
